@@ -1,0 +1,13 @@
+{
+  "appId": "app.web.react-firebase-crud-rifandani",
+  "appName": "Compass News",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
